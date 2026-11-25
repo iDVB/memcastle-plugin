@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "memcastle": {
+      "type": "http",
+      "url": "https://api.memcastle.com/mcp",
+      "headers": {
+        "X-Memcastle-Skills": "plugin"
+      }
+    }
+  }
+}

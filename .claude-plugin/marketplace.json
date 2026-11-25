@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "memcastle",
+  "description": "Memcastle memory for Claude Code",
+  "owner": { "name": "Memcastle" },
+  "plugins": [
+    {
+      "name": "memcastle",
+      "description": "Connects the Memcastle MCP server and adds the memory skill: when to recall, what to save and where to file it.",
+      "source": "./plugin",
+      "version": "0.1.0"
+    }
+  ]
+}
