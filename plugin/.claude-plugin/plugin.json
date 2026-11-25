@@ -1,6 +1,6 @@
 {
   "name": "memcastle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Memcastle memory for Claude Code: connects the Memcastle MCP server (your Personal space and your team's shared space) and adds the memory skill, the guide to when to recall, what to save and where to file it.",
   "author": {
     "name": "Memcastle"

@@ -8,7 +8,7 @@
       "name": "memcastle",
       "description": "Connects the Memcastle MCP server and adds the memory skill: when to recall, what to save and where to file it.",
       "source": "./plugin",
-      "version": "0.1.0"
+      "version": "0.1.1"
     }
   ]
 }
